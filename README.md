@@ -9,6 +9,9 @@
 <h3 align="center">IT Project Leader | Software Engineer | DevOps & Cloud Enthusiast</h3>
 
 <p align="center">
+  <a href="https://aymenxd.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-B78B32?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/aymen-fayadhi/">
     <img src="https://img.shields.io/badge/LinkedIn-Aymen%20Fayadhi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
